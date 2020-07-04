@@ -1,0 +1,12 @@
+2020-07-04 19:09:40.763 +08:00 [INF] ====================================================================
+2020-07-04 19:09:41.732 +08:00 [INF] Application Starts. Version: 1.0.0.0
+2020-07-04 19:09:41.737 +08:00 [INF] Application Directory: G:\Core\ExxchangeRateMonitorService\bin\Debug\netcoreapp3.1\
+2020-07-04 19:09:43.457 +08:00 [DBG] Hosting starting
+2020-07-04 19:09:43.473 +08:00 [INF] Service started at:"2020-07-04T19:09:43.4673337+08:00"
+2020-07-04 19:09:43.485 +08:00 [INF] Worker running at: "2020-07-04T19:09:43.4856357+08:00"
+2020-07-04 19:09:43.520 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2020-07-04 19:09:43.522 +08:00 [INF] Hosting environment: Development
+2020-07-04 19:09:43.525 +08:00 [INF] Content root path: G:\Core\ExxchangeRateMonitorService
+2020-07-04 19:09:43.527 +08:00 [DBG] Hosting started
+2020-07-04 19:09:53.538 +08:00 [INF] Worker running at: "2020-07-04T19:09:53.5380707+08:00"
+2020-07-04 19:10:03.542 +08:00 [INF] Worker running at: "2020-07-04T19:10:03.5418933+08:00"
