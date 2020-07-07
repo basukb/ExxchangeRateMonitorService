@@ -1,5 +1,5 @@
 # ExxchangeRateMonitorService
-ExxchangeRateMonitorService is Worker service built on .NET Core 3.1
+ExxchangeRateMonitorService is Worker service built on .NET Core 3.1 to monitor the Currency Exchange rates with a free api.
 
 Following are the Packages used in this project
 
