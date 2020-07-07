@@ -43,7 +43,7 @@ namespace ExxchangeRateMonitorService
                 {
                     var content = await response.Content.ReadAsStringAsync();
                     var exxchange = JsonConvert.DeserializeObject<ExxchangeRate>(content).Rates;
-                    _logger.LogInformation($"ExxchangeRate 1 SGD = {exxchange.INR} INR  at: {DateTimeOffset.Now}");
+                    _logger.LogInformation($"ExxchangeRate 1 SGD = {exxchange.INR} INR");
                 }
                 else
                 {
